@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: rgb(231, 181, 106);
+    font-family:sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    background-color: burlywood;
+    color: black;
+}
+p{
+    font-size: 30px;
+    color: blanchedalmond;
+}

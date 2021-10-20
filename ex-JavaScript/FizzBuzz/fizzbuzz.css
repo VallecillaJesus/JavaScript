@@ -1,0 +1,17 @@
+body{
+    background-color: #000000;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1{
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+p{
+    color: wheat;
+    text-align: center; 
+}
